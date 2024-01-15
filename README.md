@@ -53,4 +53,4 @@ define('SITEURL', 'http://localhost/task-manager/'); //Update the home URL of th
 ?>
 ```
 
-6. Now, Open the project in your browser. It should run perfectly.
+6. Now, Open the project in your browser. And this is it.
